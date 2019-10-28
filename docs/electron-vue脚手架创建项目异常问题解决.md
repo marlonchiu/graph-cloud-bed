@@ -110,3 +110,7 @@ externals: [
 >  [11192:1028/145813.461:ERROR:CONSOLE(2153)] "Uncaught Error: Connect to unknown extension [object Object]", source: electron/js
 > 2c/sandbox_bundle.js (2153)
 > ```
+
+## 仓库脚手架环境管理
+
+- 本[项目](https://github.com/marlonchiu/graph-cloud-bed)分支`branch init-project` 和`tags 1.0.0`备份了修改好的开发环境，以后直接切换相应的分支克隆就好啦
