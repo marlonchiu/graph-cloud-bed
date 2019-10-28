@@ -1,23 +1,24 @@
 # graph-cloud-bed
 
-> An electron-vue project
+## 写在前面
 
-#### Build Setup
+> 本项目是参考[picGo](https://github.com/Molunerfinn/PicGo)项目学习的关于`electron-vue`的入门实例项目，完全初始踩坑。
+>
+> 详细可以查看对应的 GitHub 仓库，开发说明文档见[作者项目开发博客](https://molunerfinn.com/tags/Electron-vue/)，本项目的完成完全来自于上述资源啦。
 
-``` bash
+## Build Setup
+
+```bash
 # install dependencies
 npm install
-
 # serve with hot reload at localhost:9080
 npm run dev
-
 # build electron application for production
 npm run build
-
-
+# run unit & end-to-end tests
+npm test
 # lint all JS/Vue component files in `src/`
 npm run lint
-
 ```
 
 ---
